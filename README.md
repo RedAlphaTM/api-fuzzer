@@ -35,7 +35,7 @@ The project started as a basic wordlist-based endpoint fuzzer and was gradually 
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/RedAlphaTM/api-fuzzer.git
 cd api-fuzzer
 ```
 Create and activate a virtual environment:
